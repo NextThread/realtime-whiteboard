@@ -1,0 +1,22 @@
+{
+  "name": "whiteboard",
+  "version": "1.0.0",
+  "description": "This is a Collaborative Drawing whiteboard web app",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "run": "node app.js"
+  },
+  "keywords": [
+    "Sockets",
+    "Canvas",
+    "Real time"
+  ],
+  "author": "NextThread",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
