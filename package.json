@@ -5,9 +5,8 @@
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",
-    "run": "node app.js",
-    "build": "node build.js"
-  },
+    "run": "node app.js"
+    },
   "keywords": [
     "Sockets",
     "Canvas",
